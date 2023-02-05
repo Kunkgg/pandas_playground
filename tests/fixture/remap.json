@@ -1,0 +1,7 @@
+[
+    {
+        "target_pattern": "remap/government/state/authority/box/in.c",
+        "replacement": "government/state/authority/box/in.c",
+        "remark": "映射理由1"
+    }
+]
